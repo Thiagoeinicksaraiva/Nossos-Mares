@@ -1,0 +1,226 @@
+html, body {
+    margin: 0;
+}
+
+
+
+#Imagem_fundo {
+    background: url(fundo.jpg);
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+
+
+
+
+#titulo {
+    color: white;
+    padding-top: 10%;
+    font-size: 70px;
+    line-height: 1;
+}
+
+
+
+
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+
+
+#acao {
+color: white;
+border: 4px yellow solid;
+padding: 10px 20px 10px 20px ;
+}
+
+
+
+
+.coluna {
+    float: left;
+    padding: 3% 5%;
+    position: relative;
+}
+
+
+
+
+.dois {
+    width: 40%;
+}
+
+
+
+
+.centralizado{
+text-align: center;
+}
+
+
+
+
+.justificado {
+text-align: justify;
+
+}
+
+
+
+
+
+.destaque1 {
+    background-color: rgb(0, 252, 252);
+}
+
+
+
+
+
+
+section {
+    padding: 20px;
+    float: left;
+}
+
+
+
+
+
+.quatro {
+    width: 15%;
+}
+
+
+
+
+.icone {
+    width: 71px;
+    }
+
+
+
+
+
+    .tres {
+        width: 29%;
+        padding:0 2%;
+    }
+   
+
+    
+
+    .justificado {
+        text-align: justify;
+    }
+   
+
+
+
+    .centralizado {
+        text-align: center;
+    }
+
+
+
+
+    .imgeco {
+        width: 90%;
+        height: 50%;
+    }
+
+
+
+.ecopontos {
+    background-color: rgb(216, 23, 184);
+}
+
+
+
+#logodiv {
+    width: 100%;
+    position: relative;
+    text-align: left;
+    padding: 0px;
+}
+
+
+
+
+#logo1 {
+    margin-left: 10px;
+    transform: translateX(-50%);
+}
+
+
+
+
+#menu {
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 0px;
+}
+
+
+
+
+.li {
+    float: right;
+    padding: 20px 10px 20px 10px;
+}
+
+
+
+
+.Li:hover {
+    background-color: rgb(192, 241, 11);
+}
+
+
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+header {
+    background-color:black;
+    color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+
+
+
+
+#logo {
+    width: 96px;
+    position: absolute;
+    top: 10px;
+    margin-left: 2%;
+
+
+
+
+}
+
+
+
+
+#sobre{
+    background-color: blue;
+}
+ 
+
